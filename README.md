@@ -1,5 +1,4 @@
 # matias-videos
-# ▶ Matías Videos
 
 Plataforma de videos tipo SPA desarrollada para la materia **Arquitectura en la Nube para Tecnologías de la Información**. Permite registrarse, iniciar sesión, publicar videos, reproducirlos, comentarlos y gestionar los videos propios.
 
